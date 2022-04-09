@@ -180,6 +180,7 @@ cv2.destroyAllWindows()
 
 ### ii) HSV to RGB and BGR
 <br>
+
 ![EXP_3(2)](https://user-images.githubusercontent.com/75235233/162573318-9b0f6a72-fa93-4236-bacf-20b7712b4152.png)
 
 <br>
